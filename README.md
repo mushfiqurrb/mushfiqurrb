@@ -1,7 +1,6 @@
 ### Hi, I'm Mushfiqur Rahman Bhuiyan
 ## I'm a Fresh Graduate and Developer
 
-- I am looking for my first job.
 - I love machine learning projects a lot.
 - Want to learn new stuffs everyday.
 
