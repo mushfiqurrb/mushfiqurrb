@@ -38,5 +38,5 @@
 </details>
 
 [twitter]: https://twitter.com/mushfiqrb
-[linkedin]: https://www.linkedin.com/in/mushfiqur-rahman-bhuiyan-54b5971b3
+[linkedin]: https://www.linkedin.com/in/mushfiqurrb
 [facebook]: https://www.facebook.com/mushfiqur.rahman.3511
