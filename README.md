@@ -30,12 +30,6 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mushfiqurrb's GitHub Stats" src="https://github-readme-stats-seven-sigma.vercel.app/api?username=mushfiqurrb&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/mushfiqrb
 [linkedin]: https://www.linkedin.com/in/mushfiqurrb
