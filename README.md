@@ -1,5 +1,5 @@
 ### Hi, I'm Mushfiqur Rahman Bhuiyan
-## I'm a Fresh Graduate and Developer
+## Currently working at Daraz Bangladesh as a Project Specialist
 
 - I love machine learning projects a lot.
 - Want to learn new stuffs everyday.
@@ -7,7 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
