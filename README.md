@@ -1,5 +1,5 @@
 ### Hi, I'm Mushfiqur Rahman Bhuiyan
-## Currently working at Daraz Bangladesh as a Project Specialist
+## Currently working at Daraz as Regional Data Analyst
 
 - I love machine learning projects a lot.
 - Want to learn new stuffs everyday.
