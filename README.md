@@ -1,7 +1,7 @@
 ### Hi, I'm Mushfiqur Rahman Bhuiyan
 ## Currently working at Daraz as Regional Data Analyst
 
-- Want to learn new stuffs everyday.
+
 
 
 ### Connect with me:
